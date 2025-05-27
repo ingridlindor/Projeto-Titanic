@@ -18,5 +18,5 @@ Apresentar um **comparativo** entre:
 
 ---
 
-## 📊 Resultados
+ 📊 Resultados
 Apresentação clara dos dados solicitados, possibilitando análise segmentada por classe e gênero, com foco na **taxa de sobrevivência** das mulheres da **primeira classe** e comparação geral entre **classes sociais**.
