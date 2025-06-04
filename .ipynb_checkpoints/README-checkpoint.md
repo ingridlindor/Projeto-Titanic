@@ -12,7 +12,11 @@ Este projeto explora os dados do famoso naufrágio do Titanic para entender melh
 - Visualizar padrões e desigualdades sociais evidentes no naufrágio.
 
 📈 **Exemplo de gráfico gerado:**
-![Gráfico de sobrevivência por classe](imagens/grafico_taxa_sobrevivencia.png)
+![Gráfico de sobrevivência por classe](Export/Porcentagem-sobreviventes-classe.png)
+![Grafico com a taxa de sobrevivencia por classe](Export/taxa-de-sobreviventes-classe)
+![Grafico comparativo entre sobreviventes homens e mulheres](Export/home-mulheres-sobreviventes)
+
+
 
 ---
 
@@ -22,16 +26,14 @@ Este projeto explora os dados do famoso naufrágio do Titanic para entender melh
   - Idade
   - Sexo  
 De todas as **mulheres sobreviventes** que estavam na **primeira classe**.
+- Distribuição da idade das sobreviventes dessa classe
 
 📊 **Exemplo de visualização:**
-![Gráfico de distribuição etária](imagens/grafico_mulheres_primeira_classe.png)
-
-🔗 **Baixar base filtrada para o Objetivo 2:**  
-[📥 Clique aqui para baixar](https://github.com/seuusuario/seurepositorio/raw/main/dados/mulheres_primeira_classe.csv)
+![Gráfico de distribuição etária](Export/Idade_Mulheres_Sobreviventes.png)
 
 ---
 
-## 🧠 Conhecimentos Aplicados
+## 🧠 Conhecimentos Aplicadoss
 
 - 🔎 Manipulação de dados com **Pandas**
 - ✅ Filtragem condicional com múltiplos critérios
@@ -46,8 +48,6 @@ A análise mostra claramente que:
 - Passageiros da **1ª classe** tiveram maior taxa de sobrevivência.
 - Mulheres, especialmente da 1ª classe, estavam entre os grupos mais protegidos.
 - As desigualdades sociais ficaram evidentes na distribuição dos sobreviventes.
-
-Este projeto foi desenvolvido com foco em visualização clara e análise segmentada, ideal para demonstrar habilidades em **Data Analysis com Python**.
 
 ---
 

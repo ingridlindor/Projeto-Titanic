@@ -13,6 +13,10 @@ Este projeto explora os dados do famoso naufrágio do Titanic para entender melh
 
 📈 **Exemplo de gráfico gerado:**
 ![Gráfico de sobrevivência por classe](Export/Porcentagem-sobreviventes-classe.png)
+![Grafico com a taxa de sobrevivencia por classe](Export/taxa-de-sobreviventes-classe)
+![Grafico comparativo entre sobreviventes homens e mulheres](Export/home-mulheres-sobreviventes)
+
+
 
 ---
 
@@ -22,13 +26,14 @@ Este projeto explora os dados do famoso naufrágio do Titanic para entender melh
   - Idade
   - Sexo  
 De todas as **mulheres sobreviventes** que estavam na **primeira classe**.
+- Distribuição da idade das sobreviventes dessa classe
 
 📊 **Exemplo de visualização:**
 ![Gráfico de distribuição etária](Export/Idade_Mulheres_Sobreviventes.png)
 
 ---
 
-## 🧠 Conhecimentos Aplicados
+## 🧠 Conhecimentos Aplicadoss
 
 - 🔎 Manipulação de dados com **Pandas**
 - ✅ Filtragem condicional com múltiplos critérios
