@@ -13,8 +13,8 @@ Este projeto explora os dados do famoso naufrágio do Titanic para entender melh
 
 📈 **Exemplo de gráfico gerado:**
 ![Gráfico de sobrevivência por classe](Export/Porcentagem-sobreviventes-classe.png)
-![Grafico com a taxa de sobrevivencia por classe](Export/taxa-de-sobreviventes-classe)
-![Grafico comparativo entre sobreviventes homens e mulheres](Export/home-mulheres-sobreviventes)
+![Grafico com a taxa de sobrevivencia por classe](Export/taxa-de-sobreviventes-classe.png)
+![Grafico comparativo entre sobreviventes homens e mulheres](Export/home-mulheres-sobreviventes.png)
 
 
 
