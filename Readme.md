@@ -40,3 +40,27 @@ Este gráfico em barra horizontal empilhada mostra visualmente a **proporção d
 
 A fórmula aplicada:
 
+
+
+
+
+## 🧠 Conhecimentos Aplicados
+
+Durante este projeto, foram aplicados conceitos fundamentais da análise de dados e boas práticas de apresentação visual, com foco em contar uma história clara e impactante a partir dos números. Os principais conhecimentos utilizados incluem:
+
+- **Manipulação de dados com Pandas**  
+  Agrupamentos, filtragens condicionais, criação de colunas auxiliares e cálculo de proporções e médias para responder perguntas específicas da análise.
+
+- **Visualização de dados com Matplotlib**  
+  Construção de gráficos de barras e barras empilhadas, inserção de rótulos, formatação de percentuais e layout com múltiplos eixos para visualizações comparativas.
+
+- **Gridspec para layout profissional**  
+  Organização de gráficos lado a lado com tabelas, facilitando a interpretação conjunta de diferentes dimensões dos dados.
+
+- **Storytelling de dados**  
+  Organização da análise em uma sequência lógica: primeiro o panorama geral, depois a divisão por classe, seguido da composição por gênero e, por fim, a taxa de sobrevivência. Isso permite ao leitor compreender não apenas os números, mas também o contexto social por trás deles.
+
+- **Design centrado na clareza**  
+  Gráficos com legendas claras, eixos com porcentagens de 10 em 10%, rótulos nas barras e uso intencional de cores para representar categorias (ex: vermelho para não sobreviventes, verde para sobreviventes), com foco na acessibilidade de leitura.
+
+---
