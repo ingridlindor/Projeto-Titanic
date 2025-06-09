@@ -13,7 +13,7 @@ Este projeto utiliza os dados do naufrágio do Titanic para investigar como **cl
 
 ---
 
-## 📊 Panorama Geral
+## 📊 Panorama Geral 
 
 ### 📌 Total de Passageiros e Sobreviventes por Classe
 
