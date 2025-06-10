@@ -13,7 +13,7 @@ Este projeto utiliza os dados do naufrágio do Titanic para investigar como **cl
 
 ---
 
-## 📊 Panorama Geral 
+## 📊 Panorama Geral
 
 ### 📌 Total de Passageiros e Sobreviventes por Classe
 
@@ -39,8 +39,6 @@ Este gráfico em barra horizontal empilhada mostra visualmente a **proporção d
 ## 🧮 Como a Taxa de Sobrevivência foi Calculada?
 
 A fórmula aplicada:
-
-
 
 
 
