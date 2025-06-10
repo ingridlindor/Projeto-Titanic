@@ -8,7 +8,6 @@ Este projeto utiliza os dados do naufrágio do Titanic para investigar como **cl
 
 - Calcular a **taxa de sobrevivência por classe** (1ª, 2ª e 3ª).
 - Comparar **quantitativamente** o número de sobreviventes por **sexo e classe**.
-- Visualizar **padrões sociais e desigualdades** no contexto do desastre.
 - Apresentar os dados de forma clara e acessível, com gráficos e tabelas.
 
 ---
@@ -25,6 +24,15 @@ Este projeto utiliza os dados do naufrágio do Titanic para investigar como **cl
 
 ---
 
+## 🧮 Como a Taxa de Sobrevivência foi Calculada?
+
+A fórmula aplicada:
+Taxa de Sobrevivência (%) = (Número de Sobreviventes do Grupo / Total de Passageiros no Grupo) * 100
+
+*Resultado*:
+![Gráfico: Total de passageiros e sobreviventes](Export/taxa_sobrevivencia.png)
+
+---
 ## 👥 Composição por Gênero e Classe
 
 - Quantos homens e mulheres havia em cada classe?
@@ -33,18 +41,11 @@ Este projeto utiliza os dados do naufrágio do Titanic para investigar como **cl
 Este gráfico em barra horizontal empilhada mostra visualmente a **proporção de sobrevivência** por **classe e sexo**, acompanhado de uma tabela com o total de passageiros por grupo.
 
 ![Gráfico: Proporção de sobreviventes por classe e sexo](Export/grafico_tabela_classe_sexo.png)
-
 ---
-
-## 🧮 Como a Taxa de Sobrevivência foi Calculada?
-
-A fórmula aplicada:
-
-
 
 ## 🧠 Conhecimentos Aplicados
 
-Durante este projeto, foram aplicados conceitos fundamentais da análise de dados e boas práticas de apresentação visual, com foco em contar uma história clara e impactante a partir dos números. Os principais conhecimentos utilizados incluem:
+Durante este projeto, foram aplicados conceitos fundamentais da análise de dados e boas práticas de apresentação visual, com foco em contar uma história clara e impactante a partir dos números. Os principais conhecimentos utilizados são:
 
 - **Manipulação de dados com Pandas**  
   Agrupamentos, filtragens condicionais, criação de colunas auxiliares e cálculo de proporções e médias para responder perguntas específicas da análise.
@@ -60,5 +61,3 @@ Durante este projeto, foram aplicados conceitos fundamentais da análise de dado
 
 - **Design centrado na clareza**  
   Gráficos com legendas claras, eixos com porcentagens de 10 em 10%, rótulos nas barras e uso intencional de cores para representar categorias (ex: vermelho para não sobreviventes, verde para sobreviventes), com foco na acessibilidade de leitura.
-
----
