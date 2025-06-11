@@ -29,7 +29,6 @@ Este projeto utiliza os dados do naufrágio do Titanic para investigar como **cl
 A fórmula aplicada:
 Taxa de Sobrevivência (%) = (Número de Sobreviventes do Grupo / Total de Passageiros no Grupo) * 100
 
-*Resultado*:
 ![Gráfico: Total de passageiros e sobreviventes](Export/taxa_sobrevivencia.png)
 
 ---
